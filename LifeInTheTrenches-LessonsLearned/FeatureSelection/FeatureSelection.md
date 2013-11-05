@@ -1,0 +1,9 @@
+Feature Selection
+=================
+*Models are like honored guests; you should only feed them the good parts.*
+
+Feature Selection is the process of determining the set of features with the highest information value to the model. Two main approaches are filtering and wrapper methods. Filtering methods analyze features using a test statistic and eliminate redundant or non-informative features. As an example, a filtering method could eliminate features that have little correlation to the class labels. Wrapper methods utilize a classification model as part of feature selection. A model is trained on a set of features and the classification accuracy is used to measure the information value of the feature set. One example is that of training a Neural Network with a set of features and evaluating the accuracy of the model. If the model scores highly on the test set, then the features have high information value. All possible combinations of features are tested to find the best feature set. 
+
+There are tradeoffs between these techniques. Filtering methods are faster to compute since each feature only needs to be compared against its class label. Wrapper methods, on the other hand, evaluate feature sets by constructing models and measuring performance. This requires a large number of models to be trained and evaluated (a quantity that grows exponentially in the number of features). Why would anyone use a wrapper method? Feature sets may perform better than individual features.[14] With filter methods, a feature with weak correlation to its class labels is eliminated. Some of these eliminated features, however, may have performed well when combined with other features.
+
+14. Guyon, Isabelle and Andre Elisseeff. “An Introduction to Variable and Feature Selection.” Journal of Machine Learning Research 3 (March 2003):1157-1182. Print.
