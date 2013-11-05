@@ -14,16 +14,16 @@ Email us your ideas and perspectives at data_science@bah.com or submit them via 
  
 Tell us and the world what you know. Become an author of this story.
 ## Places to Contribute
-#### [Life in the Trenches - Lessons Learned](https://github.com/booz-allen-hamilton/DataSciencePlaybook/tree/master/Community/LifeInTheTrenches-LessonsLearned)
+#### [Life in the Trenches - Lessons Learned](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/tree/master/LifeInTheTrenches-LessonsLearned)
 In the original content, we picked a few topics of interest to us and gave examples. Feel free to add an example to an already mentioned topic or begin a new topic. 
 
-#### [Building Blocks](https://github.com/booz-allen-hamilton/DataSciencePlaybook/tree/master/Community/BuildingBlocks-References2LearnFrom) - References to Learn From
+#### [Building Blocks](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/tree/master/BuildingBlocks-References2LearnFrom) - References to Learn From
 We all have to start somewhere and where is better than with source from someone/somewhere that is doing great things? 
-##### [Journal Articles](https://github.com/booz-allen-hamilton/DataSciencePlaybook/tree/master/Community/BuildingBlocks-References2LearnFrom/JournalPapers)
+##### [Journal Articles](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/tree/master/BuildingBlocks-References2LearnFrom/JournalPapers)
 Journal articles inspire by sheding light on the possible. It can be so much easier to be critical than to complement at times, but we really would rather focus on papers with techinques or points of view that you have used to be successful. Journal reviews or examples that are rude or attack authors personally will not be posted. 
-##### [Online Tutorials](https://github.com/booz-allen-hamilton/DataSciencePlaybook/tree/master/Community/BuildingBlocks-References2LearnFrom/Online)
+##### [Online Tutorials](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/tree/master/BuildingBlocks-References2LearnFrom/Online)
 Have you taken an online tutorial that you think is worth while? 
-##### [Favorite Software](https://github.com/booz-allen-hamilton/DataSciencePlaybook/tree/master/Community/BuildingBlocks-References2LearnFrom/Software)
+##### [Favorite Software](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/tree/master/BuildingBlocks-References2LearnFrom/Software)
 Do you have a favorite library or open source software package that you couldn't live without?!?! Let's hear it.
 
 #### Hyperlinks
