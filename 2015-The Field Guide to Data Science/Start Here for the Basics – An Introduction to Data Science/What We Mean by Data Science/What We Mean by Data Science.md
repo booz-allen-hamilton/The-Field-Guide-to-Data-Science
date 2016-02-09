@@ -12,13 +12,14 @@ Data Science is the art of turning data into actions. This is accomplished throu
 
 Performing Data Science requires the extraction of timely, actionable information from diverse data sources to drive data products. Examples of data products include answers to questions such as: “Which of my products should I advertise more heavily to increase profit? How can I improve my compliance program, while reducing costs? What manufacturing process change will allow me to build a better product?” The key to answering these questions is: understand the data you have and what the data inductively tells you.
 
-<img src="./media/image2.png" width="450" height="350" /> <img src="./media/image1.png" width="200" height="450" />
+<img src="./media/image1.png">
+<img src="./media/image2.png"> 
 
 ##**What makes Data Science Different?**
 
 Data Science supports and encourages shifting between deductive (hypothesis-based) and inductive (pattern-based) reasoning. This is a fundamental change from traditional analytic approaches. Inductive reasoning and exploratory data analysis provide a means to form or refine hypotheses and discover new analytic paths. In fact, to do the discovery of significant insights that are the hallmark of Data Science, you must have the tradecraft and the interplay between inductive and deductive reasoning. By actively combining the ability to reason deductively and inductively, Data Science creates an environment where models of reality no longer need to be static and empirically based. Instead, they are constantly tested, updated and improved until better models are found. These concepts are summarized in the figure, The Types of Reason and Their Role in Data Science Tradecraft.
 
-<img src="./media/image3.png" width="900" height="600" />
+<img src="./media/image3.png">
 
 The differences between Data Science and traditional analytic approaches do not end at seamless shifting between deductive and inductive reasoning. Data Science offers a distinctly different perspective than capabilities such as Business Intelligence. Data Science should not replace Business Intelligence functions within an organization, however. The two capabilities are additive and complementary, each offering a necessary view of business operations and the operating environment. The figure, *Business Intelligence and* *Data Science – A Comparison,* highlights the differences between the two capabilities. Key contrasts include:
 
@@ -28,7 +29,7 @@ The differences between Data Science and traditional analytic approaches do not 
 
 -   ***Prospective vs. Retrospective:*** Data Science is focused on obtaining actionable information from data as opposed to reporting historical facts.
 
-<img src="./media/image4.png" width="900" height="600" />
+<img src="./media/image4.png">
 
 ##**What is the Impact of Data Science?**
 
@@ -40,9 +41,9 @@ Fortunately for our economy, most organizations began to inform their decisions 
 
 Data Science is required to maintain competitiveness in the increasingly data -rich environment. Much like the application of simple statistics, organizations that embrace Data Science will be rewarded while those that do not will be challenged to keep pace. As more complex, disparate datasets become available, the chasm between these groups will only continue to widen. The figure, *The Business* *Impacts of Data Science,* highlights the value awaiting organizations that embrace Data Science.
 
-<img src="./media/image5.png" width="900" height="600" />
+<img src="./media/image5.png">
 
-<img src="./media/image6.jpeg" width="900" height="1100" />
+<img src="./media/image6.jpeg">
 
 ##**What is Different Now?**
 
