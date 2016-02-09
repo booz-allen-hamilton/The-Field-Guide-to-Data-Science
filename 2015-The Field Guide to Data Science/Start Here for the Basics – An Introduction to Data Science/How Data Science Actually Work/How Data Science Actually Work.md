@@ -10,7 +10,8 @@ Let’s not kid ourselves - Data Science is a complex field. It is difficult, in
 
 To do this, we will transform the field of Data Science into a set of simplified activities as shown in the figure, The Four Key Activities of a Data Science Endeavor. Data Science purists will likely disagree with this approach, but then again, they probably don’t need a field guide, sitting as they do in their ivory towers! In the real world, we need clear and simple operating models to help drive us forward.
 
-<img src="./media/image1.png" width="900" height="900" />
+
+<img src="./media/image1.png">
 
 1.  **Acquire**
 
@@ -30,7 +31,7 @@ But as mentioned earlier, this first activity is heavily dependent upon the situ
 
 -   **Embrace diversity:** Try to engage and connect to publicly available sources of data that may have relevance to your domain area.
 
-<img src="./media/image2.png" width="350" height="450" />
+<img src="./media/image2.png">
 
 2.**Prepare**
 
@@ -50,7 +51,7 @@ The Analyze activity requires the greatest effort of all the activities in a Dat
 
 With the totality of data fully accessible in the Data Lake, organizations can use analytics to find the kinds of connections and patterns that point to promising opportunities. This high-speed analytic connection is done within the Data Lake, as opposed to older style sampling methods that could only make use of a narrow slice of the data. In order to understand what was in the lake, you had to bring the data out and study it. Now you can dive into the lake, bringing your analytics to the data. The figure, Analytic Connection in the Data Lake, highlights the concept of diving into the Data Lake to discover new connections and patterns.
 
-<img src="./media/image3.png" width="900" height="500" />
+<img src="./media/image3.png">
 
 Data Scientists work across the spectrum of analytic goals – Describe, Discover, Predict and Advise. The maturity of an analytic capability determines the analytic goals encompassed. Many variables play key roles in determining the difficulty and suitability of each goal for an organization. Some of these variables are the size and budget of an organization and the type of data products needed by the decision makers. A detailed discussion on analytic maturity can be found in Data Science Maturity within an Organization.
 
@@ -72,7 +73,7 @@ The ability to make use of the analysis is critical. It is also very situational
 
 5.  The findings must answer real business questions.
 
-    <img src="./media/image4.jpeg" width="900" height="1100" />
+    <img src="./media/image4.jpeg">
 
 ##**Data Science Maturity within an Organization**
 
@@ -80,7 +81,7 @@ The four activities discussed thus far provide a simplified view of Data Science
 
 Assessing the maturity of your Data Science capability calls for a slightly different view. We use The Data Science Maturity Model as a common framework for describing the maturity progression and components that make up a Data Science capability. This framework can be applied to an organization’s Data Science capability or even to the maturity of a specific solution, namely a data product. At each stage of maturity, powerful insight can be gained.
 
-<img src="./media/image5.png" width="900" height="600" />
+<img src="./media/image5.png">
 The Data Science Maturity Model
 
 
@@ -93,10 +94,10 @@ All of your initial effort will be focused on identifying and aggregating data. 
 
 Organizations continue to advance in maturity as they move through the stages from Describe to Advise. At each stage they can tackle increasingly complex analytic goals with a wider breadth of analytic capabilities. As described for Collect, each stage never goes away entirely. Instead, the proportion of time spent focused on it goes down and new, more mature activities begin. A brief description of each stage of maturity is shown in the table The Stages of Data Science Maturity.
 
-<img src="./media/image6.png" width="900" height="650" />
+<img src="./media/image6.png">
 
 The maturity model provides a powerful tool for understanding and appreciating the maturity of a Data Science capability. Organizations need not reach maximum maturity to achieve success. Significant gains can be found in every stage. We believe strongly that one does not engage in a Data Science effort, however, unless it is intended to produce an output – that is, you have the intent to Advise. This means simply that each step forward in maturity drives you to the right in the model diagram. Moving to the right requires the correct processes, people, culture and operating model – a robust Data Science capability. What Does it Take to Create a Data Science Capability? addresses this topic.
 
 We have observed very few organizations actually operating at the highest levels of maturity, the Predict and Advise stages. The tradecraft of Discover is only now maturing to the point that organizations can focus on advanced Predict and Advise activities. This is the new frontier of Data Science. This is the space in which we will begin to understand how to close the cognitive gap between humans and computers. Organizations that reach Advise will be met with true insights and real competitive advantage.
 
-<img src="./media/image7.png" width="350" height="900" />
+<img src="./media/image7.png">
