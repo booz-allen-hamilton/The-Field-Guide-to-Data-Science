@@ -1,6 +1,6 @@
 ##Life in the Trenches
 **Navigating Neck Deep in Data**<br>
-We have learned and developed new solutions over the years from properly framing or reframing analytic solutions. In this section, we list a few important topics to Data Science coupled with firsthand experience.
+We have learned and developed new solutions over the years from properly framing or reframing analytic questions. In this section, we list a few important topics to Data Science coupled with firsthand experience.
 
 ### Feature Engineering
 

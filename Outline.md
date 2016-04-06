@@ -1,8 +1,10 @@
 ![](figures/Outline.png?raw=true)
 
-[Meet Your Guides](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/MeetYourGuides.md "Meet Your Guides")
+**Introduction**
 
-[The Short Version – The Core Concepts of Data Science](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/TheShortVersion.md "The Short Version – The Core Concepts of Data Science")
+- [Meet Your Guides](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/MeetYourGuides.md "Meet Your Guides")
+- [The Short Version – The Core Concepts of Data Science](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/TheShortVersion.md "The Short Version – The Core Concepts of Data Science")
+- [About Booz Allen Hamilton](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/Intro%20(2015)/AboutBoozAllenHamilton.md "About Booz Allen Hamilton")
 
 **Start Here for the Basics – Introduction to Data Science**
 
@@ -22,24 +24,27 @@
 
 **Life in the Trenches – Navigating Neck Deep in Data**
 
+- [Machine Learning](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/tree/master/LifeInTheTrenches-LessonsLearned/MachineLearning "Machine Learning")
 - [Feature Engineering](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/tree/master/LifeInTheTrenches-LessonsLearned/FeatureEngineering "Feature Engineering")
 - [Feature Selection](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/tree/master/LifeInTheTrenches-LessonsLearned/FeatureSelection "Feature Selection")
 - [Data Veracity](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/tree/master/LifeInTheTrenches-LessonsLearned/DataVeracity "Data Veracity")
 - [Application of Domain Knowledge](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/tree/master/LifeInTheTrenches-LessonsLearned/AppDomainKnowledge "Application of Domain Knowledge")
 - [Model Validation](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/tree/master/LifeInTheTrenches-LessonsLearned/ModelValidation "Model Validation")
 - [The Curse Of Dimensionality](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/tree/master/LifeInTheTrenches-LessonsLearned/CurseOfDimensionality "The Curse of Dimensionality")
-
+- [Ensemble Models](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/tree/master/LifeInTheTrenches-LessonsLearned/EnsembleModels "Ensemble Models")
 
 **Putting it all Together – Our Case Studies**
-
-- [Consumer Behavior Analysis from a Multi-Terabyte Data Set](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/PuttingItAllTogether/ConsumerBehaviorAnalysisFromMultiTerabyteDataset.md "Consumer Behavior Analysis from a Multi-Terabyte Data Set")
-- [Strategic Insights with Terabytes of Passenger Data](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/PuttingItAllTogether/StrategicInsightsWithinTerabytesOfPassengerData.md "Strategic Insights with Terabytes of Passenger Data")
-- [Savings Through Better Manufacturing](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/PuttingItAllTogether/SavingsThroughBetterManufacturing.md "Savings Through Better Manufacturing")
-- [Realizing Higher Returns Through Predictive Analytics](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/PuttingItAllTogether/RealizingHigherReturnsThroughPredictiveAnalytics.md "Realizing Higher Returns Through Predictive Analytics")
+- [Our Case Studies](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/PuttingItAllTogether/OurCaseStudies.md "Our Case Studies")
+- [Making Vaccines Safer](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/PuttingItAllTogether/MakingVaccinesSafer.md "Making Vaccines Safer")
+- [Predicting Customer Response](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/PuttingItAllTogether/PredictingCustomerResponse.md "Predicting Customer Response")
+- [Preventing Atrocities](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/PuttingItAllTogether/PreventingAtrocities.md "PreventingAtrocities")
+- [Reducing Flight Delays](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/PuttingItAllTogether/ReducingFlightDelays.md "Reducing Flight Delays")
+- [Streamlining Medication Review](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/PuttingItAllTogether/StreamliningMedicationReview.md "Streamlining Medication Review")
 
 **Closing Time**
 
-- [Parting Thoughts](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/PartingThoughts.md "Parting Thoughts")
-- [Reference](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/References.md "References")
-- [About Booz Allen Hamilton](hhttps://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/AboutBoozAllenHamilton.md "About Booz Allen Hamilton")
+- [Parting Thoughts](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/ClosingTime/PartingThoughts.md "Parting Thoughts")
+- [References](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/ClosingTime/References.md "References")
+- [The Future of Data Science](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/ClosingTime/TheFutureOfDataScience.md "The Future of Data Science")
+- [Guide In The Press](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/ClosingTime/GuideInThePress.md "Guide In The Press")
 
