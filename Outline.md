@@ -2,15 +2,15 @@
 
 **Introduction**
 
-- [Meet Your Guides](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/MeetYourGuides.md "Meet Your Guides")
-- [The Short Version – The Core Concepts of Data Science](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/TheShortVersion.md "The Short Version – The Core Concepts of Data Science")
-- [About Booz Allen Hamilton](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/Intro%20(2015)/AboutBoozAllenHamilton.md "About Booz Allen Hamilton")
+- [Meet Your Guides](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/Intro/MeetYourGuides.md "Meet Your Guides")
+- [The Short Version – The Core Concepts of Data Science](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/Intro/TheShortVersion.md "The Short Version – The Core Concepts of Data Science")
+- [About Booz Allen Hamilton](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/Intro/AboutBoozAllenHamilton.md "About Booz Allen Hamilton")
 
 **Start Here for the Basics – Introduction to Data Science**
 
-- [What Do We Mean by Data Science?](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/StartHereForTheBasics-Intro/DataScienceDefined.md "What Do We Mean by Data Science?")
-- [How Does Data Science Actually Work?](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/StartHereForTheBasics-Intro/HowItWorks.md "How Does Data Science Actually Work?")
-- [What Does It Take to Create a Data Science Capability?](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/StartHereForTheBasics-Intro/CreatingCapability.md "What Does It Take to Create a Data Science Capability?")
+- [What Do We Mean by Data Science?](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/StartHereForTheBasics-Intro/What%20We%20Mean%20by%20Data%20Science/What%20We%20Mean%20by%20Data%20Science.md "What Do We Mean by Data Science?")
+- [How Does Data Science Actually Work?](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/StartHereForTheBasics-Intro/How%20Data%20Science%20Actually%20Works/How%20Data%20Science%20Actually%20Works.md "How Does Data Science Actually Works?")
+- [What Does It Take to Create a Data Science Capability?](https://github.com/booz-allen-hamilton/The-Field-Guide-to-Data-Science/blob/master/StartHereForTheBasics-Intro/How%20to%20Create%20a%20Data%20Science%20Capability/How%20to%20Create%20a%20Data%20Science%20Capability.md "What Does It Take to Create a Data Science Capability?")
 
 **Take off the Training Wheels – The Practitioner’s Guide to Data Science**
 
