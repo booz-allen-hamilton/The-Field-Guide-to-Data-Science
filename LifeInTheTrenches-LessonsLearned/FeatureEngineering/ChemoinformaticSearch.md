@@ -1,4 +1,4 @@
-##Feature Engineering Case Study -- Chemoinformatic Search
+## Feature Engineering Case Study -- Chemoinformatic Search
 
 *Author: Ed Kohlwey*
 
